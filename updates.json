@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-05T13:43:14.915416+00:00",
+  "last_updated": "2026-10-06T12:49:22.012483+00:00",
   "updates": [
+    {
+      "category": "LIVE_NOW",
+      "title": "Lead Source Report — Drill Into Your Leads and See Value by Status",
+      "content": "The Lead Source Report now lets you click into any number to see the exact opportunities behind it, and shows monetary value broken down by status across every source row.\n\nWhat is new:\n- Click any count under Total Leads, Open, Won, Lost, or Abandoned to see the individual opportunities behind that number.\n- The report now displays monetary value for Open, Won, Lost, and Abandoned statuses, not just the total.\n- The Source filter now supports \"Is empty\" and \"Is not empty\" so you can find leads with no source assigned.\n- Opportunities without a source now appear as \"N/A\" instead of being excluded from the report.\n- Table rows have a consistent height and columns remain readable on smaller screens.\n\nHow to use it:\n1. Open your dashboard and add the Lead Source Report widget, or open an existing one.\n2. Review each source row to see both the count and the monetary value for every status.\n3. Click any count greater than zero to open the list of opportunities that make up that number.\n4. To check data quality, apply the Source filter with \"Is empty\", or scroll to the \"N/A\" row to identify opportunities missing a source assignment.\n\nNote: Monetary values are visible only to users who have permission to view lead value. Drill-down is available on any count greater than zero.",
+      "title_ar": "تقرير مصدر العملاء المحتملين — استعرض تفاصيل العملاء وقيمهم حسب الحالة",
+      "content_ar": "يتيح لك تقرير مصدر العملاء المحتملين الآن النقر على أي رقم للاطلاع على الفرص الفعلية التي يمثلها، كما يعرض القيمة المالية مقسّمةً حسب الحالة لكل صف من صفوف المصادر.\n\nالمستجدات:\n- يمكنك النقر على أي عدد ضمن إجمالي العملاء المحتملين أو حالة \"مفتوح\" أو \"مكتسب\" أو \"خسارة\" أو \"متروك\" لعرض الفرص الفردية التي يتضمنها.\n- يعرض التقرير الآن القيمة المالية لحالات \"مفتوح\" و\"مكتسب\" و\"خسارة\" و\"متروك\"، لا الإجمالي فحسب.\n- يدعم فلتر المصدر الآن خياري \"فارغ\" و\"غير فارغ\" لتتمكن من تحديد العملاء غير المرتبطين بأي مصدر.\n- تظهر الفرص التي لا يُحدَّد لها مصدر بوصفها \"N/A\" بدلاً من استبعادها من التقرير.\n- صفوف الجدول موحّدة الارتفاع وتظل الأعمدة مقروءةً على الشاشات الصغيرة.\n\nطريقة الاستخدام:\n1. افتح لوحة التحكم وأضف أداة تقرير مصدر العملاء المحتملين، أو افتح تقريراً موجوداً.\n2. راجع كل صف من صفوف المصادر للاطلاع على العدد والقيمة المالية لكل حالة.\n3. انقر على أي عدد أكبر من الصفر لفتح قائمة الفرص التي يتكوّن منها ذلك الرقم.\n4. للتحقق من جودة البيانات، طبّق فلتر المصدر باختيار \"فارغ\"، أو راجع صف \"N/A\" لتحديد الفرص التي لم يُسنَد إليها مصدر.\n\nملاحظة: القيم المالية مرئية للمستخدمين الذين يملكون صلاحية عرض قيمة العملاء المحتملين فقط. خاصية التفصيل متاحة على أي عدد أكبر من الصفر.",
+      "published": "2026-10-06"
+    },
     {
       "category": "LIVE_NOW",
       "title": "New Templates Now Available",
