@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-13T13:39:52.738900+00:00",
+  "last_updated": "2026-10-14T11:18:03.007320+00:00",
   "updates": [
+    {
+      "category": "LIVE_NOW",
+      "title": "Conversations: Add Internal Comments Using Workflows",
+      "content": "You can now automatically post internal comments to conversations through Workflows, removing the need for manual entries to share context or instructions with your team.\n\nWhat is new:\n- A new Add Internal Comment action is available in Workflows\n- Comments are posted automatically when a workflow runs\n- You can @mention specific team members directly in the comment\n- Comments appear in the conversation history and are never visible to the customer\n\nHow to use it:\n1. Go to Automation > Workflows\n2. Create a new workflow or open an existing one\n3. Add the Add Internal Comment action\n4. Enter your comment and @mention any team members as needed\n5. Save and publish the workflow",
+      "title_ar": "المحادثات: إضافة تعليقات داخلية تلقائياً عبر مسارات العمل",
+      "content_ar": "يمكنك الآن نشر تعليقات داخلية تلقائية في المحادثات من خلال مسارات العمل [Workflows]، دون الحاجة إلى إدخالها يدوياً لمشاركة السياق أو التعليمات مع الفريق.\n\nالمستجدات:\n- إجراء جديد بعنوان Add Internal Comment متاح ضمن مسارات العمل\n- تُنشر التعليقات تلقائياً عند تشغيل مسار العمل\n- يمكن الإشارة إلى أعضاء الفريق باستخدام علامة @ مباشرةً في التعليق\n- تظهر التعليقات في سجل المحادثة ولا يراها العميل\n\nطريقة الاستخدام:\n1. انتقل إلى Automation > Workflows\n2. أنشئ مساراً جديداً أو افتح مساراً موجوداً\n3. أضف إجراء Add Internal Comment\n4. أدخل نص التعليق وأشر إلى أعضاء الفريق باستخدام @ عند الحاجة\n5. احفظ مسار العمل وانشره",
+      "published": "2026-10-14"
+    },
     {
       "category": "LIVE_NOW",
       "title": "Schema Management Dashboard at Website and Funnel Level",
