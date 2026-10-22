@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-21T11:14:03.288915+00:00",
+  "last_updated": "2026-10-22T11:13:31.759953+00:00",
   "updates": [
+    {
+      "category": "LIVE_NOW",
+      "title": "📝 Attach Forms When You Create Service or Rental Bookings In-App",
+      "content": "Forms can now be attached to service and rental bookings you create manually from the appointment modal, ensuring intake information is captured consistently regardless of how a booking is made.\n\nWhat is new:\n- Service and rental bookings now include a Booking form section in the appointment modal. Click Attach form to open and complete the form on the customer's behalf. Attaching a form is optional.\n- Your configured form is preselected by default. You can switch to any other available form using the dropdown.\n- First name, last name, email, and phone are prefilled from the selected contact.\n- CAPTCHA, product selling, and payment elements are hidden when filling a form from the appointment modal.\n\nHow to use it:\n1. Open the in-app appointment modal and create a new service or rental booking. Select the contact.\n2. In the Booking form section, click Attach form.\n3. Complete the form on the customer's behalf, then create the booking.\n4. Open the appointment details at any time to view the submitted form.\n\nNote: Forms can only be attached during booking creation and cannot be added or edited afterward.",
+      "title_ar": "📝 إرفاق النماذج عند إنشاء حجوزات الخدمات والإيجار داخل التطبيق",
+      "content_ar": "أصبح بإمكانكم الآن إرفاق النماذج بحجوزات الخدمات والإيجار التي تنشئونها يدوياً من نافذة الموعد، مما يضمن جمع بيانات الاستقبال بصورة موحدة بصرف النظر عن طريقة إنشاء الحجز.\n\nالمستجدات:\n- أُضيف قسم Booking form (نموذج الحجز) إلى نافذة الموعد الخاصة بحجوزات الخدمات والإيجار. انقروا على Attach form لفتح النموذج وتعبئته نيابةً عن العميل. الإرفاق اختياري ويمكن إنشاء الحجز دونه.\n- يُحدَّد النموذج المُعدّ مسبقاً تلقائياً، مع إمكانية التبديل إلى أي نموذج متاح عبر القائمة المنسدلة.\n- تُملَأ حقول الاسم الأول والاسم الأخير والبريد الإلكتروني ورقم الهاتف تلقائياً من بيانات جهة الاتصال المحددة.\n- لا تظهر عناصر CAPTCHA أو بيع المنتجات أو الدفع عند تعبئة النموذج من نافذة الموعد.\n\nطريقة الاستخدام:\n1. افتحوا نافذة الموعد داخل التطبيق وأنشئوا حجز خدمة أو إيجار جديداً، ثم حددوا جهة الاتصال.\n2. في قسم Booking form، انقروا على Attach form.\n3. عبّئوا النموذج نيابةً عن العميل، ثم أنشئوا الحجز.\n4. افتحوا تفاصيل الموعد في أي وقت للاطلاع على النموذج المُرسَل.\n\nملاحظة: لا يمكن إرفاق النماذج إلا أثناء إنشاء الحجز، ولا يمكن إضافتها أو تعديلها لاحقاً.",
+      "published": "2026-10-22"
+    },
     {
       "category": "LIVE_NOW",
       "title": "New Templates Now Available",
